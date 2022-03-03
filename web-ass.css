@@ -1,0 +1,72 @@
+/* author @SUPRIT */
+body{
+    font-family:  New,Courier,monospace;
+    background-color: black;
+    scroll-behavior: smooth;
+}
+.navbar a img{
+    height: 100px;
+    width: 150px;
+}
+#navbarNav{
+    justify-content: center;
+}
+#navbarNav a{
+    color: rgb(55, 231, 55);
+}
+#navbarNav a:hover{
+    color: red;
+}
+nav a strong{
+    margin-left: 15px;
+    color:  rgb(55, 231, 55);
+}
+.background pre{
+    text-align: center;
+    color: red;
+}
+.card #abt{
+    color: rgb(55, 231, 55);
+}
+.card p span{
+    color: rgb(55, 231, 55);
+}
+.card-group .card{
+    align-items: center;
+    background-color: black;
+}
+.card-group .card img{
+height: 200px;
+width: 250px;
+}
+.card-group .card .card-body{
+    color: white;
+}
+.card #anon{
+    color: rgb(55, 231, 55);
+}
+.programs h4 {
+    color: rgb(55, 231, 55);
+    text-align: center;
+}
+#Programs .card-title{
+    text-align: center;
+}
+#Contributor h5{
+    text-align: center;
+    color: rgb(55, 231, 55);
+}
+#Contributor{
+    
+    text-align: center;
+}
+#Card00{
+    margin-left: 36%;
+}
+footer{
+    text-align: center;
+    color: red;
+}
+footer span{
+    color: rgb(55, 231, 55);
+}
