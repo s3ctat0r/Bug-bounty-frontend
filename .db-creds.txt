@@ -1,0 +1,3 @@
+mysql=0.0.0.0
+uname=admin
+password=admin
